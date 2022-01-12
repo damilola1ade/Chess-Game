@@ -1,0 +1,3 @@
+# Chess-Game
+Chess Game with Source Code is a JavaScript project that is a single-player game where the player must defeat the opposing black color chess piece. The program was created with the use of these languages: JavaScript, CSS and HTML. The program is driven with an AI, the player will play against a computer where it can even defeat a top chess player. The control is very easy player can click a chess piece and choose a corresponding position in the board. The player must be careful in placing the chess pieces and play intelligently as the game goes on. The game is very challenging try to outsmart the computer in order to become the champ.
+This project was created by Damilola Adegbemile
